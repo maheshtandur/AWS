@@ -3,7 +3,7 @@
     "Id": "S3-Account-Permission",
     "Statement": [
         {
-            "mahesh": "1",
+            "sid": "1",
             "Effect": "Allow",
             "Principal": {
               "AWS": ["arn:aws:iam:1234567890:root"]
